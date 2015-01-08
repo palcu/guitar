@@ -53,7 +53,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Alice](http://www.eugenkarban.de/index.php/cantece/song/356-alice)
 * [Vino vino](http://www.eugenkarban.de/index.php/cantece/song/401-vinovinovariantahardcore)
 * [La cabana BTT](http://zamolxe.dotgeek.org/wiki/public/index.php?n=Personal.LaCabanaBTT)
-* [Tac pac](http://www.tabulaturi.ro/acorduri.php?tab_id=6863) {cool}
+* [Tac pac](http://www.tabulaturi.ro/acorduri.php?tab_id=6863)
 * [Fetita franceza](http://www.tabulaturi.ro/acorduri.php?tab_id=5454)
 * [Sobita](http://www.tabulaturi.ro/acorduri.php?tab_id=4443)
 * [Aviatia](http://www.tabulaturi.ro/acorduri.php?tab_id=3302)
