@@ -23,12 +23,12 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 # Cercetaș
 
-* [[http://www.eugenkarban.de/index.php/cantece/song/414-visulafostodataunvis | Visul]]
-* [[http://www.tabulaturi.ro/acorduri.php?tab_id=490 | Valeriu Sterian – Amintire cu haiduci]]
-* [[http://www.eugenkarban.de/index.php/cantece/song/273-cand-te-scuturi-de-zapada | Când te scuturi de zăpadă]]
-* [[http://www.tabulaturi.ro/acorduri.php?tab_id=6375 | Dacă n-ai amintiri]]
-* [[http://www.tabulaturi.ro/acorduri.php?tab_id=469 | Râpa]]
-* [[http://www.tabulaturi.ro/acorduri.php?tab_id=320 | Noapte la mare, noapte la munte]]
+* [Visul](http://www.eugenkarban.de/index.php/cantece/song/414-visulafostodataunvis)
+* [Valeriu Sterian – Amintire cu haiduci](http://www.tabulaturi.ro/acorduri.php?tab_id=490)
+* [Când te scuturi de zăpadă](http://www.eugenkarban.de/index.php/cantece/song/273-cand-te-scuturi-de-zapada)
+* [Dacă n-ai amintiri](http://www.tabulaturi.ro/acorduri.php?tab_id=6375)
+* [Râpa](http://www.tabulaturi.ro/acorduri.php?tab_id=469)
+* [Noapte la mare, noapte la munte](http://www.tabulaturi.ro/acorduri.php?tab_id=320)
 * [Seară de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=3004)
 * [M-a tinut mama acasa](http://tabulaturi.ro/acorduri.php?tab_id=5292)
 * [Ma intorc si pasii-s grei](http://tabulaturi.ro/acorduri.php?tab_id=5340)
@@ -36,8 +36,8 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Colo-n vale](http://www.tabulaturi.ro/acorduri.php?tab_id=6566)
 * [Padure Nebuna](http://www.tabulaturi.ro/acorduri.php?tab_id=1685)
 * [Sunt un vagabond](http://www.tabulaturi.ro/acorduri.php?tab_id=4049)
-* [[Pseudofabula]]
-* [[Noapte in Madagascar]]
+* Pseudofabula
+* Noapte in Madagascar
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
 * [Nu te mai iubesc](http://www.tabulaturi.ro/acorduri.php?tab_id=477)
 
