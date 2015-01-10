@@ -8,6 +8,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 * [Flori de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=4498)
 * [Strada Popa Nan](http://www.tabulaturi.ro/acorduri.php?tab_id=689) + [video](https://www.youtube.com/watch?v=HKpv1xVpwDY)
+* [Thinking out loud](http://tabs.ultimate-guitar.com/e/ed_sheeran/thinking_out_loud_crd.htm)
 
 # Last ten
 * [Cea mai frumoasa parte din mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7730)
@@ -134,7 +135,6 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 # English
 * [Everytime we touch - Cascada](http://tabs.ultimate-guitar.com/c/cascada/every_time_we_touch_crd.htm)
 * [Let it be](http://tabs.ultimate-guitar.com/b/beatles/let_it_be_ver4_tab.htm)
-* [Hey jude](http://tabs.ultimate-guitar.com/b/beatles/hey_jude_ver4_crd.htm)
 * [Soul Asylum - Runnaway train](http://tabs.ultimate-guitar.com/s/soul_asylum/runaway_train_crd.htm)
 * [Wonderful tonight](http://www.e-chords.com/keyboards/babyface/wonderful-tonight)
 * [Knockin On Heaven's Door - Bob Dylan](http://www.e-chords.com/chords/bob-dylan/knockin-on-heavens-door)
@@ -147,20 +147,11 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Paint it black](http://tabs.ultimate-guitar.com/r/rolling_stones/paint_it_black_ver2_crd.htm)
 * [Aerosmith - I don't wanna miss a thing](http://tabs.ultimate-guitar.com/a/aerosmith/i_dont_want_to_miss_a_thing_ver7_crd.htm)
 * [Hallelujah](http://tabs.ultimate-guitar.com/j/jeff_buckley/hallelujah_ver2_crd.htm)
-* [Nelly Furtado - Say it right](http://tabs.ultimate-guitar.com/n/nelly_furtado/say_it_right_crd.htm)
-* [Forever young](http://tabs.ultimate-guitar.com/a/alphaville/forever_young_crd.htm)
 * [Summer Wine - Ville Valo feat Natalia Avelon](http://tabs.ultimate-guitar.com/v/ville_valo/summer_wine_crd.htm)
-* [Happy ending](http://tabs.ultimate-guitar.com/m/mika/happy_ending_crd.htm)
-* [We are golden](http://tabs.ultimate-guitar.com/m/mika/we_are_golden_crd.htm)
 * [Passenger - Let her go](http://tabs.ultimate-guitar.com/p/passenger/let_her_go_crd.htm)
-* [Have you ever seen the rain](http://tabs.ultimate-guitar.com/c/creedence_clearwater_revival/have_you_ever_seen_the_rain_crd.htm)
-
-## Alternative
 * [Coldplay - Viva La Vida](http://tabs.ultimate-guitar.com/c/coldplay/viva_la_vida_crd.htm)
-* [Starlight Chords - Muse](http://tabs.ultimate-guitar.com/m/muse/starlight_crd.htm)
 * [Wake Me Up When September Ends - Green Day](http://tabs.ultimate-guitar.com/g/green_day/wake_me_up_when_september_ends_ver3_crd.htm)
 * [Boulevard Of Broken Dreams - Green Day](http://tabs.ultimate-guitar.com/g/green_day/boulevard_of_broken_dreams_acoustic_crd.htm)
-* [Undisclosed Desires Chords - Muse](http://tabs.ultimate-guitar.com/m/muse/undisclosed_desires_crd.htm)
 
 # Folk
 * [Imnul golanilor](http://www.tabulaturi.ro/acorduri.php?tab_id=2300)
