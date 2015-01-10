@@ -21,6 +21,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Phoenix – Nebunul cu ochii inchisi](http://www.tabulaturi.ro/acorduri.php?tab_id=6394)
 * [Cargo - Ziua vrajitoarelor](http://www.tabulaturi.ro/acorduri.php?tab_id=3347)
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
+* [Alexandrina - Printre flori](http://www.tabulaturi.ro/acorduri.php?tab_id=7208) - [ciupitură 3/4](https://www.youtube.com/watch?v=8UeXtbohA0E)
 
 # Cercetaș
 
