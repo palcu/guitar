@@ -6,6 +6,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 # To learn
 
+* [Muro șavo](http://www.tabulaturi.ro/acorduri.php?tab_id=4417)
 * [Flori de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=4498)
 * [Strada Popa Nan](http://www.tabulaturi.ro/acorduri.php?tab_id=689) + [video](https://www.youtube.com/watch?v=HKpv1xVpwDY)
 * [Thinking out loud](http://tabs.ultimate-guitar.com/e/ed_sheeran/thinking_out_loud_crd.htm)
