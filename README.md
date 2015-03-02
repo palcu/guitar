@@ -12,6 +12,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Thinking out loud](http://tabs.ultimate-guitar.com/e/ed_sheeran/thinking_out_loud_crd.htm)
 * [Bere Gratis – Vino mai aproape](http://www.tabulaturi.ro/acorduri.php?tab_id=5474)
 * [Spune-mi cine esti - Semnal M](http://www.tabulaturi.ro/acorduri.php?tab_id=1407)
+* [Karma – Vantul](http://www.tabulaturi.ro/acorduri.php?tab_id=986)
 
 # Last ten
 * [Cea mai frumoasa parte din mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7730)
