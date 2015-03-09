@@ -13,6 +13,8 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Bere Gratis – Vino mai aproape](http://www.tabulaturi.ro/acorduri.php?tab_id=5474)
 * [Spune-mi cine esti - Semnal M](http://www.tabulaturi.ro/acorduri.php?tab_id=1407)
 * [Karma – Vantul](http://www.tabulaturi.ro/acorduri.php?tab_id=986)
+* [Dragostea e o salata - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=2978)
+* [Pisica Neagra - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=3493)
 
 # Last ten
 * [Cea mai frumoasa parte din mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7730)
