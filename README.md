@@ -177,10 +177,3 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Oltenia eterna teranova](http://www.tabulaturi.ro/acorduri.php?tab_id=4407)
 * [Elegie atlanta](http://www.tabulaturi.ro/acorduri.php?tab_id=7431)
 * [Focul Viu – Dacii Liberi](http://www.tabulaturi.ro/acorduri.php?tab_id=2918)
-
-# Manele
-* [Jumatate eu, jumatate tu](http://www.tabulaturi.ro/acorduri.php?tab_id=4007)
-* [Buzele tale](http://www.tabulaturi.ro/acorduri.php?tab_id=5765)
-* [Cap si pajura](http://www.tabulaturi.ro/acorduri.php?tab_id=7080)
-* [Te iubesc din corason](http://www.tabulaturi.ro/acorduri.php?tab_id=8661)
-* [Saint tropez](http://www.tabulaturi.ro/acorduri.php?tab_id=9110)
