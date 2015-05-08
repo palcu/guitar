@@ -1,6 +1,6 @@
 # List of songs to learn
 
-## From the old list
+## Songs
 
 * [Muro șavo](http://www.tabulaturi.ro/acorduri.php?tab_id=4417)
 * [Flori de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=4498)
@@ -11,6 +11,7 @@
 * [Karma – Vantul](http://www.tabulaturi.ro/acorduri.php?tab_id=986)
 * [Dragostea e o salata - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=2978)
 * [Pisica Neagra - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=3493)
+* [TItus Constantin - Luna in Cascade](http://www.tabulaturi.ro/acorduri.php?tab_id=7497)
 
 ## Formații de căutat
 
