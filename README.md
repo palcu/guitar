@@ -3,6 +3,18 @@ O listă de cântece pentru chitară acustică, sortată pe categorii, ușoare p
 Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395-reclame).
 
 # Last ten
+
+* [Bosquito – Doua maini](http://www.tabulaturi.ro/acorduri.php?tab_id=4609) bataie 4/4, ultimul vers refren Am D C
+* [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
+* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
+* [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313)
+* [Bosquito – Bosquito](http://www.tabulaturi.ro/acorduri.php?tab_id=309) 3/4 ritm rapid
+* [Vasile Șeicaru – Aruncarea in valuri](http://www.tabulaturi.ro/acorduri.php?tab_id=501) 3/4
+* [Dinu Olărașu – N-ai nevoie de foarte multe](http://www.tabulaturi.ro/acorduri.php?tab_id=7698)
+* [Marcel Pavel - Frumoasa Mea](http://www.tabulaturi.ro/acorduri.php?tab_id=2020)
+* [Dan Spataru - Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=5860)
+* [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425)
+* [Ștefan Bănică - Poveste de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=297)
 * [Cea mai frumoasa parte din mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7730)
 * [Avionul de aur](http://www.tabulaturi.ro/acorduri.php?tab_id=4725)
 * [Nu te mai iubesc](http://www.tabulaturi.ro/acorduri.php?tab_id=477)
@@ -25,7 +37,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Noapte la mare, noapte la munte](http://www.tabulaturi.ro/acorduri.php?tab_id=320)
 * [Seară de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=3004)
 * [M-a tinut mama acasa](http://tabulaturi.ro/acorduri.php?tab_id=5292)
-* [Ma intorc si pasii-s grei](http://tabulaturi.ro/acorduri.php?tab_id=5340)
+* [Karma - Muntii mei](http://tabulaturi.ro/acorduri.php?tab_id=5340)
 * [Nebun de alb](http://www.tabulaturi.ro/acorduri.php?tab_id=727)
 * [Colo-n vale](http://www.tabulaturi.ro/acorduri.php?tab_id=6566)
 * [Padure Nebuna](http://www.tabulaturi.ro/acorduri.php?tab_id=1685)
@@ -101,7 +113,8 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Praf de stele](http://www.tabulaturi.ro/acorduri.php?tab_id=3342) + [versuri](http://www.versuri.ro/versuri/mejfi_vita+de+vie+praf+de+stele.html)
 * [Vita de vie - Liber](http://www.tabulaturi.ro/acorduri.php?tab_id=154)
 * [Floare de iris](http://www.tabulaturi.ro/acorduri.php?tab_id=230)
-* [Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425)
+* [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425)
+* [Ștefan Bănică - Poveste de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=297)
 
 # Pop
 * [Guess Who – Tot mai sus](http://www.tabulaturi.ro/acorduri.php?tab_id=7349)
@@ -110,12 +123,12 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Pana cand moartea ne va desparti](http://www.tabulaturi.ro/acorduri.php?tab_id=5364)
 * [Vank – 1000](http://www.tabulaturi.ro/acorduri.php?tab_id=526)
 * [Compact – Trenul Pierdut](http://www.tabulaturi.ro/acorduri.php?tab_id=1429)
-
-## Nicola
-* [Iti multumesc](http://www.tabulaturi.ro/acorduri.php?tab_id=7088)
-* [Langa mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7092)
-* [Milioane](http://www.tabulaturi.ro/acorduri.php?tab_id=6741)
-* [Dincolo de noapte](http://www.tabulaturi.ro/acorduri.php?tab_id=3130)
+* [Dan Spataru - Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=5860)
+* [Marcel Pavel - Frumoasa Mea](http://www.tabulaturi.ro/acorduri.php?tab_id=2020)
+* [Bosquito – Bosquito](http://www.tabulaturi.ro/acorduri.php?tab_id=309) 3/4 ritm rapid
+* [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313)
+* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
+* [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
 
 ## Hi-Q
 * [Buna Dimineata](http://www.tabulaturi.ro/acorduri.php?tab_id=3129)
@@ -163,3 +176,5 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Oltenia eterna teranova](http://www.tabulaturi.ro/acorduri.php?tab_id=4407)
 * [Elegie atlanta](http://www.tabulaturi.ro/acorduri.php?tab_id=7431)
 * [Focul Viu – Dacii Liberi](http://www.tabulaturi.ro/acorduri.php?tab_id=2918)
+* [Dinu Olărașu – N-ai nevoie de foarte multe](http://www.tabulaturi.ro/acorduri.php?tab_id=7698)
+* [Vasile Șeicaru – Aruncarea in valuri](http://www.tabulaturi.ro/acorduri.php?tab_id=501) 3/4
