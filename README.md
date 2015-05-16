@@ -2,8 +2,10 @@ O listă de cântece pentru chitară acustică, sortată pe categorii, ușoare p
 
 Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395-reclame).
 
-# Last ten
+# Last
 
+* [Dan Spătaru – Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=398) bataie 3/4
+* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) ritm de tango
 * [Bosquito – Doua maini](http://www.tabulaturi.ro/acorduri.php?tab_id=4609) bataie 4/4, ultimul vers refren Am D C
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
 * [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
@@ -80,6 +82,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Trandafir de la Moldova](http://www.eugenkarban.de/index.php/cantece/song/328-trandafirdelamoldova)
 * [Pomul copt si omul bun](http://www.tabulaturi.ro/acorduri.php?tab_id=542)
 * [Uiuiui bradui](http://www.tabulaturi.ro/acorduri.php?tab_id=6798) - cam grea
+* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) ritm de tango
 
 # Vama Veche
 * [VST](http://www.tabulaturi.ro/acorduri.php?tab_id=4322)
@@ -129,6 +132,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313)
 * [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
+* [Dan Spătaru – Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=398) bataie 3/4
 
 ## Hi-Q
 * [Buna Dimineata](http://www.tabulaturi.ro/acorduri.php?tab_id=3129)
