@@ -119,6 +119,15 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425)
 * [Ștefan Bănică - Poveste de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=297)
 
+## Robin and The Backstabbers
+
+* [Soare cu dinţi](http://www.tabulaturi.ro/acorduri.php?tab_id=7134)
+* [Cand te-am cunoscut Cristina](http://www.tabulaturi.ro/acorduri.php?tab_id=9328) (Am in loc de D)
+* [Arhanghel'sk](http://www.tabulaturi.ro/acorduri.php?tab_id=9258)
+* [Sat dupa sat](http://www.tabulaturi.ro/acorduri.php?tab_id=8502)
+* [Vânătoarea Regală](http://www.tabulaturi.ro/acorduri.php?tab_id=8869)
+* [Spnztr](http://www.tabulaturi.ro/acorduri.php?tab_id=7926)
+
 # Pop
 * [Guess Who – Tot mai sus](http://www.tabulaturi.ro/acorduri.php?tab_id=7349)
 * [Vunk – Pleaca](http://www.tabulaturi.ro/acorduri.php?tab_id=7548)
