@@ -11,7 +11,9 @@
 * [Karma – Vantul](http://www.tabulaturi.ro/acorduri.php?tab_id=986)
 * [Dragostea e o salata - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=2978)
 * [Pisica Neagra - Pasarea Colibri](http://www.tabulaturi.ro/acorduri.php?tab_id=3493)
-* [TItus Constantin - Luna in Cascade](http://www.tabulaturi.ro/acorduri.php?tab_id=7497)
+* [Titus Constantin - Luna in Cascade](http://www.tabulaturi.ro/acorduri.php?tab_id=7497)
+* [Can't Take My Eyes Off You - Frankie Valli](http://tabs.ultimate-guitar.com/f/frankie_valli/cant_take_my_eyes_off_you_crd.htm)
+* [Prăjitura cu jeleu - Vunk](http://www.tabulaturi.ro/acorduri.php?tab_id=4553)
 
 ## Formații de căutat
 
