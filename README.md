@@ -4,27 +4,19 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 # Last
 
-* [Dan Spătaru – Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=398) bataie 3/4
-* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) ritm de tango
-* [Bosquito – Doua maini](http://www.tabulaturi.ro/acorduri.php?tab_id=4609) bataie 4/4, ultimul vers refren Am D C
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
-* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
-* [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313)
-* [Bosquito – Bosquito](http://www.tabulaturi.ro/acorduri.php?tab_id=309) 3/4 ritm rapid
 * [Vasile Șeicaru – Aruncarea in valuri](http://www.tabulaturi.ro/acorduri.php?tab_id=501) 3/4
 * [Dinu Olărașu – N-ai nevoie de foarte multe](http://www.tabulaturi.ro/acorduri.php?tab_id=7698)
 * [Marcel Pavel - Frumoasa Mea](http://www.tabulaturi.ro/acorduri.php?tab_id=2020)
-* [Dan Spataru - Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=5860)
+* [Dan Spataru - Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=5860) 2/4 la strofe apoi 4/4 la refren
 * [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425)
 * [Ștefan Bănică - Poveste de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=297)
 * [Cea mai frumoasa parte din mine](http://www.tabulaturi.ro/acorduri.php?tab_id=7730)
-* [Avionul de aur](http://www.tabulaturi.ro/acorduri.php?tab_id=4725)
 * [Nu te mai iubesc](http://www.tabulaturi.ro/acorduri.php?tab_id=477)
-* [Undeva in vama](http://www.tabulaturi.ro/acorduri.php?tab_id=4488)
 * [Elegie atlanta](http://www.tabulaturi.ro/acorduri.php?tab_id=7431)
 * [Focul Viu – Dacii Liberi](http://www.tabulaturi.ro/acorduri.php?tab_id=2918)
 * [Pasarea Colibri - Ulysse](http://www.tabulaturi.ro/acorduri.php?tab_id=2976)
-* [Phoenix – Nebunul cu ochii inchisi](http://www.tabulaturi.ro/acorduri.php?tab_id=6394)
+* [Phoenix – nebun de  cu ochii inchisi](http://www.tabulaturi.ro/acorduri.php?tab_id=6394)
 * [Cargo - Ziua vrajitoarelor](http://www.tabulaturi.ro/acorduri.php?tab_id=3347)
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
 * [Alexandrina - Printre flori](http://www.tabulaturi.ro/acorduri.php?tab_id=7208) - [ciupitură 3/4](https://www.youtube.com/watch?v=8UeXtbohA0E)
@@ -40,12 +32,9 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Seară de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=3004)
 * [M-a tinut mama acasa](http://tabulaturi.ro/acorduri.php?tab_id=5292)
 * [Karma - Muntii mei](http://tabulaturi.ro/acorduri.php?tab_id=5340)
-* [Nebun de alb](http://www.tabulaturi.ro/acorduri.php?tab_id=727)
 * [Colo-n vale](http://www.tabulaturi.ro/acorduri.php?tab_id=6566)
 * [Padure Nebuna](http://www.tabulaturi.ro/acorduri.php?tab_id=1685)
 * [Sunt un vagabond](http://www.tabulaturi.ro/acorduri.php?tab_id=4049)
-* Pseudofabula
-* Noapte in Madagascar
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
 * [Nu te mai iubesc](http://www.tabulaturi.ro/acorduri.php?tab_id=477)
 
@@ -82,7 +71,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Trandafir de la Moldova](http://www.eugenkarban.de/index.php/cantece/song/328-trandafirdelamoldova)
 * [Pomul copt si omul bun](http://www.tabulaturi.ro/acorduri.php?tab_id=542)
 * [Uiuiui bradui](http://www.tabulaturi.ro/acorduri.php?tab_id=6798) - cam grea
-* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) ritm de tango
+* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) 2/4
 
 # Vama Veche
 * [VST](http://www.tabulaturi.ro/acorduri.php?tab_id=4322)
@@ -95,7 +84,6 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Armata](http://www.tabulaturi.ro/acorduri.php?tab_id=519)
 * [Perfect fara tine](http://www.tabulaturi.ro/acorduri.php?tab_id=8956)
 * [Calul din Marlboro](http://www.tabulaturi.ro/acorduri.php?tab_id=4548)
-* [Undeva in vama](http://www.tabulaturi.ro/acorduri.php?tab_id=4488)
 * [Vama Veche](http://www.tabulaturi.ro/acorduri.php?tab_id=3573)
 
 # Rock
@@ -129,6 +117,11 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Spnztr](http://www.tabulaturi.ro/acorduri.php?tab_id=7926)
 
 # Pop
+* [Alexandrina - Avionul de aur](http://www.tabulaturi.ro/acorduri.php?tab_id=4725) 2/4
+* [Nebun de alb](http://www.tabulaturi.ro/acorduri.php?tab_id=727)
+* [Bosquito – Bosquito](http://www.tabulaturi.ro/acorduri.php?tab_id=309) 3/4 ritm rapid
+* [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313) 4/4 iese super fain
+* [Bosquito – Doua maini](http://www.tabulaturi.ro/acorduri.php?tab_id=4609) bataie 4/4, ultimul vers refren Am D C
 * [Guess Who – Tot mai sus](http://www.tabulaturi.ro/acorduri.php?tab_id=7349)
 * [Vunk – Pleaca](http://www.tabulaturi.ro/acorduri.php?tab_id=7548)
 * [Bambi - Doi ochi caprui](http://www.tabulaturi.ro/acorduri.php?tab_id=294)
@@ -137,9 +130,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Compact – Trenul Pierdut](http://www.tabulaturi.ro/acorduri.php?tab_id=1429)
 * [Dan Spataru - Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=5860)
 * [Marcel Pavel - Frumoasa Mea](http://www.tabulaturi.ro/acorduri.php?tab_id=2020)
-* [Bosquito – Bosquito](http://www.tabulaturi.ro/acorduri.php?tab_id=309) 3/4 ritm rapid
-* [Bosquito - Pepita](http://www.tabulaturi.ro/acorduri.php?tab_id=313)
-* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590)
+* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590) 2/4 super trist
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
 * [Dan Spătaru – Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=398) bataie 3/4
 
