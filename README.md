@@ -4,6 +4,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 # Last
 
+* [Călțun – Poveste de iubire](http://www.tabulaturi.ro/acorduri.php?tab_id=3000)
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
 * [Vasile Șeicaru – Aruncarea in valuri](http://www.tabulaturi.ro/acorduri.php?tab_id=501) 3/4
 * [Dinu Olărașu – N-ai nevoie de foarte multe](http://www.tabulaturi.ro/acorduri.php?tab_id=7698)
@@ -21,7 +22,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
 * [Alexandrina - Printre flori](http://www.tabulaturi.ro/acorduri.php?tab_id=7208) - [ciupitură 3/4](https://www.youtube.com/watch?v=8UeXtbohA0E)
 
-# Cercetaș
+# Munte
 
 * [Visul](http://www.eugenkarban.de/index.php/cantece/song/414-visulafostodataunvis)
 * [Valeriu Sterian – Amintire cu haiduci](http://www.tabulaturi.ro/acorduri.php?tab_id=490)
@@ -37,6 +38,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Sunt un vagabond](http://www.tabulaturi.ro/acorduri.php?tab_id=4049)
 * [Imnul prietenie](http://www.tabulaturi.ro/acorduri.php?tab_id=4038)
 * [Nu te mai iubesc](http://www.tabulaturi.ro/acorduri.php?tab_id=477)
+* [Călțun – Poveste de iubire](http://www.tabulaturi.ro/acorduri.php?tab_id=3000)
 
 # De gașcă
 * [Apa de izvor](http://www.tabulaturi.ro/acorduri.php?tab_id=1427)
