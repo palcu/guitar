@@ -4,6 +4,9 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 
 # Last
 
+* [Ada Milea – Tu mă iubești doar iarna](http://www.tabulaturi.ro/acorduri.php?tab_id=9627)
+* [Ada Milea – Moș Crăciun](http://www.tabulaturi.ro/acorduri.php?tab_id=9369)
+* [Ada Milea – Femeia ideală](http://www.tabulaturi.ro/acorduri.php?tab_id=9790)
 * [Călțun – Poveste de iubire](http://www.tabulaturi.ro/acorduri.php?tab_id=3000)
 * [Semnal M - La fereastra ta](http://www.tabulaturi.ro/acorduri.php?tab_id=218) Ciupitura 4/4
 * [Vasile Șeicaru – Aruncarea in valuri](http://www.tabulaturi.ro/acorduri.php?tab_id=501) 3/4
@@ -57,6 +60,9 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Sobita](http://www.tabulaturi.ro/acorduri.php?tab_id=4443)
 * [Aviatia](http://www.tabulaturi.ro/acorduri.php?tab_id=3302)
 * [Dumitru](http://www.tabulaturi.ro/acorduri.php?tab_id=6397)
+* [Ada Milea – Tu mă iubești doar iarna](http://www.tabulaturi.ro/acorduri.php?tab_id=9627)
+* [Ada Milea – Moș Crăciun](http://www.tabulaturi.ro/acorduri.php?tab_id=9369)
+* [Ada Milea – Femeia ideală](http://www.tabulaturi.ro/acorduri.php?tab_id=9790)
 
 # Marginene
 * [Paraschivo](http://www.tabulaturi.ro/acorduri.php?tab_id=4914)
