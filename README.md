@@ -89,7 +89,6 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Omul Plajei](http://www.tabulaturi.ro/acorduri.php?tab_id=4496)
 * [Vino sa visam sub apa](http://www.tabulaturi.ro/acorduri.php?tab_id=1422)
 * [Dragostea](http://www.tabulaturi.ro/acorduri.php?tab_id=2196)
-* [Armata](http://www.tabulaturi.ro/acorduri.php?tab_id=519)
 * [Perfect fara tine](http://www.tabulaturi.ro/acorduri.php?tab_id=8956)
 * [Calul din Marlboro](http://www.tabulaturi.ro/acorduri.php?tab_id=4548)
 * [Vama Veche](http://www.tabulaturi.ro/acorduri.php?tab_id=3573)
@@ -102,7 +101,6 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Pasarea Colibri - Ulysse](http://www.tabulaturi.ro/acorduri.php?tab_id=2976)
 * [Phoenix – Nebunul cu ochii inchisi](http://www.tabulaturi.ro/acorduri.php?tab_id=6394)
 * [Phoenix – In umbra marelui urs](http://www.tabulaturi.ro/acorduri.php?tab_id=4113)
-* [Voltaj – 20](http://tabulaturi.ro/acorduri.php?tab_id=3465)
 * [Voltaj – Hai sus](http://tabulaturi.ro/acorduri.php?tab_id=1832)
 * [Voltaj - Vara trecută](http://www.tabulaturi.ro/acorduri.php?tab_id=4792)
 * [Cargo – Daca ploaia s-ar opri](http://www.tabulaturi.ro/acorduri.php?tab_id=316)
@@ -147,7 +145,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Dor de tine, dor de noi](http://www.tabulaturi.ro/acorduri.php?tab_id=1475)
 * [Asa-s prietenii](http://www.tabulaturi.ro/acorduri.php?tab_id=6359)
 * [Gasca mea](http://www.tabulaturi.ro/acorduri.php?tab_id=579)
-* [Razna](http://www.tabulaturi.ro/acorduri.php?tab_id=580)
+* [Razna](http://www.tabulaturi.ro/acorduri.php?tab_id=580) (capo pe 2)
 * [Te-am iubit, dar](http://www.tabulaturi.ro/acorduri.php?tab_id=4876)
 
 # English
@@ -174,12 +172,12 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 # Folk
 * [Imnul golanilor](http://www.tabulaturi.ro/acorduri.php?tab_id=2300)
 * [Traiasca Romania](http://www.tabulaturi.ro/acorduri.php?tab_id=3810)
+* [Conexiuni – Mai ramai putin](http://www.tabulaturi.ro/acorduri.php?tab_id=4590) 2/4 super trist
 * [Ducu Bertzi - Cand s-o-mpartit norocu'](http://www.tabulaturi.ro/acorduri.php?tab_id=299)
 * [Doamne ocroteste-i pe romani](http://tabulaturi.ro/acorduri.php?tab_id=4019)
-* [Glossa](http://www.tabulaturi.ro/acorduri.php?tab_id=1653)
 * [Desteapta-te romane](http://tabulaturi.ro/acorduri.php?tab_id=540)
 * [Hora unirii](http://tabulaturi.ro/acorduri.php?tab_id=6677)
-* [Walter Ghicolescu - Telefon peste moarte](http://www.tabulaturi.ro/acorduri.php?tab_id=5723)
+* [Walter Ghicolescu - Telefon peste moarte](http://www.tabulaturi.ro/acorduri.php?tab_id=5723) (fără pană 3/4 rapid) http://www.tabulaturi.ro/acorduri.php?tab_id=5723
 * [Radu Gheorghe – Broasca Testoasa](http://www.tabulaturi.ro/acorduri.php?tab_id=342)
 * [Matraguna](http://www.tabulaturi.ro/acorduri.php?tab_id=3519)
 * [Sub balcon eu ti-am cantat o serenada](http://www.eugenkarban.de/index.php/cantece/song/4-subbalconeutiamcantatoserenada)
