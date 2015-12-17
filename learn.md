@@ -14,6 +14,12 @@
 * [Titus Constantin - Luna in Cascade](http://www.tabulaturi.ro/acorduri.php?tab_id=7497)
 * [Can't Take My Eyes Off You - Frankie Valli](http://tabs.ultimate-guitar.com/f/frankie_valli/cant_take_my_eyes_off_you_crd.htm)
 * [Prăjitura cu jeleu - Vunk](http://www.tabulaturi.ro/acorduri.php?tab_id=4553)
+* [Ada Milea – Femeia ideală](http://www.tabulaturi.ro/acorduri.php?tab_id=9790) b:2/2 y:https://www.youtube.com/watch?v=vPiT84JdELU
+* [Ma dusei sa trec la Olt](http://www.tabulaturi.ro/acorduri.php?tab_id=2589)
+* [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425) 4/4 #voce #greu
+* [Voltaj - Vara trecută](http://www.tabulaturi.ro/acorduri.php?tab_id=4792)
+* [Buna Dimineata](http://www.tabulaturi.ro/acorduri.php?tab_id=3129) 2/4
+* [Cargo - Ziua vrajitoarelor](http://www.tabulaturi.ro/acorduri.php?tab_id=3347) 2/4
 
 ## Formații de căutat
 
