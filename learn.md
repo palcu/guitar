@@ -20,6 +20,11 @@
 * [Voltaj - Vara trecută](http://www.tabulaturi.ro/acorduri.php?tab_id=4792)
 * [Buna Dimineata](http://www.tabulaturi.ro/acorduri.php?tab_id=3129) 2/4
 * [Cargo - Ziua vrajitoarelor](http://www.tabulaturi.ro/acorduri.php?tab_id=3347) 2/4
+* [Imagine Dragons - Deamons](https://tabs.ultimate-guitar.com/i/imagine_dragons/demons_ver2_crd.htm) 2/4 versuri 4/4 refren
+* [Gică Petrescu – Zaraza](http://www.tabulaturi.ro/acorduri.php?tab_id=1889) - 2/4 #doar-in-jos-bataia
+* [Vânătoarea Regală](http://www.tabulaturi.ro/acorduri.php?tab_id=8869) 4/4 #voios
+* [Călțun – Poveste de iubire](http://www.tabulaturi.ro/acorduri.php?tab_id=3000) 4/4 #voios
+* [Walter Ghicolescu - Telefon peste moarte](http://www.tabulaturi.ro/acorduri.php?tab_id=5723) (fără pană 3/4 rapid) http://www.tabulaturi.ro/acorduri.php?tab_id=5723
 
 ## Formații de căutat
 
