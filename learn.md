@@ -25,11 +25,17 @@
 * [Vânătoarea Regală](http://www.tabulaturi.ro/acorduri.php?tab_id=8869) 4/4 #voios
 * [Călțun – Poveste de iubire](http://www.tabulaturi.ro/acorduri.php?tab_id=3000) 4/4 #voios
 * [Walter Ghicolescu - Telefon peste moarte](http://www.tabulaturi.ro/acorduri.php?tab_id=5723) (fără pană 3/4 rapid) http://www.tabulaturi.ro/acorduri.php?tab_id=5723
+* [VST](http://www.tabulaturi.ro/acorduri.php?tab_id=4322)
+* [Pasarea Colibri - Ulysse](http://www.tabulaturi.ro/acorduri.php?tab_id=2976)
+* [Dan Spătaru – Drumurile noastre](http://www.tabulaturi.ro/acorduri.php?tab_id=398) bataie 3/4
+* [Talisman/Phoenix - Numai una](http://www.tabulaturi.ro/acorduri.php?tab_id=1425) 4/4
+* [Imnul golanilor](http://www.tabulaturi.ro/acorduri.php?tab_id=2300) 4/4
+* [Wonderwall Chords - Oasis](http://tabs.ultimate-guitar.com/o/oasis/wonderwall_ver3_crd.htm)
+* [Doi olteni](http://eugenkarban.de/index.php/cantece/cantece/song/369-doiolteni) #dubios
 
 ## Formații de căutat
 
 * Phoenix
-* Bosquito
 
 ## Altele
 
