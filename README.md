@@ -80,7 +80,7 @@ Si sa nu uitam de [reclame](http://www.eugenkarban.de/index.php/cantece/song/395
 * [Floare de iris](http://www.tabulaturi.ro/acorduri.php?tab_id=230) 4/4 #trist
 * [Ștefan Bănică - Poveste de mai](http://www.tabulaturi.ro/acorduri.php?tab_id=297) 4/4 #voios
 * [VH2 - Dacă n-ai iubi](http://www.tabulaturi.ro/acorduri.php?tab_id=3211) 4/4 #love
-
+* [Linkin Park - Numb](https://tabs.ultimate-guitar.com/l/linkin_park/numb_ver6_crd.htm)
 ## Robin and The Backstabbers
 
 * [Soare cu dinţi](http://www.tabulaturi.ro/acorduri.php?tab_id=7134) 4/4 #voios
